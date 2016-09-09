@@ -1,0 +1,24 @@
+{
+  "name": "road-rate",
+  "version": "0.0.1",
+  "description": "A simple app that lets users rate roads.",
+  "main": "server.js",
+  "scripts": {
+    "test": "read the readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wspresto/road-rate.git"
+  },
+  "keywords": [
+    "road",
+    "rage",
+    "rate"
+  ],
+  "author": "wspresto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wspresto/road-rate/issues"
+  },
+  "homepage": "https://github.com/wspresto/road-rate#readme"
+}
